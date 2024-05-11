@@ -29,6 +29,10 @@
 - **Tools**: Jupyter Notebook, Linux, Microsoft Office, Mathematica.
 - **Soft Skills**: Leadership, teamwork, organization, efficiency, ability to work under pressure.
 
+## Publications
+
+- "Comparative Image Alignment for Multiple Telescopes: ALMA, IRIS, SDO", eSPECTRA, Vol. 2, 2024.
+- "Study of Doppler velocities and their relation to magnetic field oscillations in the penumbra of solar sunspots", Ciencia en Desarrollo, Vol 1, 2022.
 
 
 

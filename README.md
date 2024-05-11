@@ -5,6 +5,10 @@
 <h3 align="center">I am a Solar Physicist who loves to explore the mysteries of the universe using Data Science. I am passionate about using advanced analysis methods to study space phenomena and turn those insights into useful knowledge.</h3>
 
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javierordoneza&label=Profile%20views&color=0e75b6&style=flat" alt="javierordoneza" /> </p>
 
 - 👯 I’m looking to collaborate on **Data Science and Solar Physics Projects**

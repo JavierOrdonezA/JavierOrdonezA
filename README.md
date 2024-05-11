@@ -37,6 +37,16 @@
 - **Tools**: Jupyter Notebook, Linux, Microsoft Office, Mathematica.
 - **Soft Skills**: Leadership, teamwork, organization, efficiency, ability to work under pressure.
 
+
+## Participation in Projects
+
+### Visiting Scholar
+- **KU Leuven Faculty of Science**, Leuven, Belgium (2024): As a visiting scholar, I shared results from my thesis at the DynaSun Project's inauguration, focusing on integrating observations from various AIA filters to better understand cold events observed with ALMA band 3.
+
+### Research Stay
+- **Rosseland Center for Solar Physics (RoCS)**, Oslo, Norway (2023): Improved methods for aligning IRIS, ALMA, and SDO images, enhancing the data quality used in my thesis. Collaborated with colleagues to gain expertise in analyzing and interpreting data from SDO, ALMA, and IRIS, correlating these observations at cold event locations to enhance the outcomes of my master's thesis.
+
+
 ## Publications
 
 - "Comparative Image Alignment for Multiple Telescopes: ALMA, IRIS, SDO", eSPECTRA, Vol. 2, 2024, doi:

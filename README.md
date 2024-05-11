@@ -39,8 +39,10 @@
 
 ## Publications
 
-- "Comparative Image Alignment for Multiple Telescopes: ALMA, IRIS, SDO", eSPECTRA, Vol. 2, 2024.
-- "Study of Doppler velocities and their relation to magnetic field oscillations in the penumbra of solar sunspots", Ciencia en Desarrollo, Vol 1, 2022.
+- "Comparative Image Alignment for Multiple Telescopes: ALMA, IRIS, SDO", eSPECTRA, Vol. 2, 2024, doi:
+https://arxiv.org/abs/2404.04401.
+- "Study of Doppler velocities and their relation to magnetic field oscillations in the penumbra of solar sunspots", Ciencia en Desarrollo, Vol 1, 2022, doi:
+https://doi.org/10.19053/01217488.v1.n2E.2022.15245.
 
 
 

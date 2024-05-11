@@ -13,6 +13,8 @@
 - 👯 I’m looking to collaborate on **Data Science and Solar Physics Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JavierOrdonezA](https://github.com/JavierOrdonezA)
+  
+-  💬 Ask me about **Data and Time Series Analysis, Solar physics**
 
 - 📫 How to reach me **fordonezaraujo@gmail.com**
 

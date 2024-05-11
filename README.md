@@ -5,7 +5,7 @@
 <h3 align="center">I am a Solar Physicist who loves to explore the mysteries of the universe using Data Science. I am passionate about using advanced analysis methods to study space phenomena and turn those insights into useful knowledge.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6113555652cc6dc7c637a96242fb21474d83afbeb7428441c43d616a17cc1daf/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f6d656469612f31383138316562333965656339373834646232353665323436393534616462612e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javierordoneza&label=Profile%20views&color=0e75b6&style=flat" alt="javierordoneza" /> </p>

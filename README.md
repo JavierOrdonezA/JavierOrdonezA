@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **fordonezaraujo@gmail.com**
 
+<br>
+<br>
 
 ## Education
 

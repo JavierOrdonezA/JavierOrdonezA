@@ -20,40 +20,6 @@
 
 <br>
 
-## Education
-
-- **Postgraduate**: Master’s Degree in Science - Astronomy, National University of Colombia, Bogotá D.C., Colombia (2022-2024) - **GPA**: 4.7/5.0, **Honors**: Meritorious thesis.
-- **Undergraduate**: Bachelor’s Degree in Physics, National University of Colombia, Bogotá D.C., Colombia (2016-2021) - **GPA**: 4.2/5.0.
-- **Course**: The Structured Query Language (SQL), University of Colorado Boulder, Online,  (2023-2023) - **GPA**: 92/100.
-
-
-## Professional Experience
-
-- **Junior Data Scientist**, Lilianurse, Bogotá D.C., Colombia (2023): Developed and implemented a decision tree model to analyze and predict sales trends. Provided data-driven insights to optimize sales strategies and improve decision-making processes.
-- **Teaching Assistant Fellow**, National University of Colombia, Bogotá D.C., Colombia (2022-2023): Taught data analysis techniques and descriptive statistics, focusing on their application in astronomical data analysis.
-
-## Skills
-
-- **Programming Languages**: Python, SQL, C++, LaTeX, Octave/MATLAB.
-- **Tools**: Jupyter Notebook, Linux, Microsoft Office, Mathematica.
-- **Soft Skills**: Leadership, teamwork, organization, efficiency, ability to work under pressure.
-
-
-## Participation in Projects
-
-### Visiting Scholar
-- **KU Leuven Faculty of Science**, Leuven, Belgium (2024): As a visiting scholar, I shared results from my thesis at the DynaSun Project's inauguration, focusing on integrating observations from various AIA filters to better understand cold events observed with ALMA band 3.
-
-### Research Stay
-- **Rosseland Center for Solar Physics (RoCS)**, Oslo, Norway (2023): Improved methods for aligning IRIS, ALMA, and SDO images, enhancing the data quality used in my thesis. Collaborated with colleagues to gain expertise in analyzing and interpreting data from SDO, ALMA, and IRIS, correlating these observations at cold event locations to enhance the outcomes of my master's thesis.
-
-
-## Publications
-
-- "Comparative Image Alignment for Multiple Telescopes: ALMA, IRIS, SDO", eSPECTRA, Vol. 2, 2024, doi:
-https://arxiv.org/abs/2404.04401.
-- "Study of Doppler velocities and their relation to magnetic field oscillations in the penumbra of solar sunspots", Ciencia en Desarrollo, Vol 1, 2022, doi:
-https://doi.org/10.19053/01217488.v1.n2E.2022.15245.
 
 
 

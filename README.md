@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm F. Javier Ordoñez A</h1>
-<h3 align="center">"I am a Solar Physicist expert at applying data science techniques to study the sun, with experience using these methods in the industry to address real-world challenges."</h3>
+<h3 align="center">"I am a Solar Physicist expert at applying Data Science techniques to study the sun, with experience using these methods in the industry to address real-world challenges."</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6113555652cc6dc7c637a96242fb21474d83afbeb7428441c43d616a17cc1daf/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f6d656469612f31383138316562333965656339373834646232353665323436393534616462612e676966">

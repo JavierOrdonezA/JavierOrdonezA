@@ -26,6 +26,8 @@
 - **Data Analysis**: Pandas, Numpy, Excel, Seaborn, Scipy, Tableau, PowerBI
 - **Machine Learning**: Scikit-Learn, PyTorch, TensorFlow, OpenCV, Scikit-image
 - **Cloud Computing**: Cloud Computing, Azure(Databricks), Colab
+- **Other**: Jupyter NoteBook, VS Code, LATEX, MS Excel, Microsoft Office, VBA
+- **Technical**: Regression/Classification (GLM, Logistic, KNN, CART), Clustering (K-Means, DBSCAN, Decision Tree Model), Dimensionality Reduction (PCA, LDA), Deep Learning (CNN), Analytical Statistics (hypothesis testing, A/B testing)
 - **Soft Skills**: Leadership, teamwork, organization, efficiency, ability to work under pressure.
 
 

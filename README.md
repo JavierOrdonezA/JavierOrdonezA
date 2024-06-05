@@ -24,6 +24,7 @@
 
 - **Programming Languages and OS **: Python, SQL, C++, LaTeX, Octave/MATLAB, Linux, Git
 - **Data Analysis**: Pandas, Numpy, Excel, Seaborn, Scipy, Tableau, PowerBI
+- **Machine Learning**: Scikit-Learn, PyTorch, TensorFlow, OpenCV, Scikit-image
 - **Soft Skills**: Leadership, teamwork, organization, efficiency, ability to work under pressure.
 
 

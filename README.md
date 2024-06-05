@@ -52,9 +52,13 @@
 
 ## Publications
 
-- "Comparative Image Alignment for Multiple Telescopes: ALMA, IRIS, SDO", eSPECTRA, Vol. 2, 2024, doi:
+- "Data and Image Analysis: Comparative Image Alignment for Multiple Telescopes: ALMA, IRIS, SDO", eSPECTRA, Vol. 2, 2024, doi:
 https://arxiv.org/abs/2404.04401.
-- "Study of Doppler velocities and their relation to magnetic field oscillations in the penumbra of solar sunspots", Ciencia en Desarrollo, Vol 1, 2022, doi:
+
+- "Data Analysis and Dynamics Study: the cold solar chromosphere dynamics observed with ALMA", UNAL Master Thesis repository, doi:
+https://repositorio.unal.edu.co/handle/unal/85838.
+
+- "Data Analysis: Study of Correlations between Variables in Sunspots", Ciencia en Desarrollo, Vol 1, 2022, doi:
 https://doi.org/10.19053/01217488.v1.n2E.2022.15245.
 
 

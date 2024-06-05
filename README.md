@@ -18,7 +18,14 @@
 
 - 📫 How to reach me **fordonezaraujo@gmail.com**
 
-<br>
+<be>
+
+## Skills
+
+- **Programming Languages**: Python, SQL, C++, LaTeX, Octave/MATLAB.
+- **Tools**: Jupyter Notebook, Linux, Microsoft Office, Mathematica.
+- **Soft Skills**: Leadership, teamwork, organization, efficiency, ability to work under pressure.
+
 
 
 ## Education
@@ -34,11 +41,7 @@
 - **Junior Data Scientist**, Lilianurse, Bogotá D.C., Colombia (2023): Developed and implemented a decision tree model to analyze and predict sales trends. Provided data-driven insights to optimize sales strategies and improve decision-making processes.
 - **Teaching Assistant Fellow**, National University of Colombia, Bogotá D.C., Colombia (2022-2023): Taught data analysis techniques and descriptive statistics, focusing on their application in astronomical data analysis.
 
-## Skills
 
-- **Programming Languages**: Python, SQL, C++, LaTeX, Octave/MATLAB.
-- **Tools**: Jupyter Notebook, Linux, Microsoft Office, Mathematica.
-- **Soft Skills**: Leadership, teamwork, organization, efficiency, ability to work under pressure.
 
 
 ## Participation in Projects

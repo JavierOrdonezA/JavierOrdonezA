@@ -22,8 +22,8 @@
 
 ## Skills
 
-- **Programming Languages**: Python, SQL, C++, LaTeX, Octave/MATLAB.
-- **Tools**: Jupyter Notebook, Linux, Microsoft Office, Mathematica.
+- **Programming Languages and OS **: Python, SQL, C++, LaTeX, Octave/MATLAB, Linux, Git
+- **Data Analysis**: Pandas, Numpy, Excel, Seaborn, Scipy, Tableau, PowerBI
 - **Soft Skills**: Leadership, teamwork, organization, efficiency, ability to work under pressure.
 
 

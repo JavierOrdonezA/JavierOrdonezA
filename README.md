@@ -8,6 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6113555652cc6dc7c637a96242fb21474d83afbeb7428441c43d616a17cc1daf/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f6d656469612f31383138316562333965656339373834646232353665323436393534616462612e676966">
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javierordoneza&label=Profile%20views&color=0e75b6&style=flat" alt="javierordoneza" /> </p>
 
 - 👯 I’m looking to collaborate on **Data Science and Solar Physics Projects**
@@ -36,6 +37,7 @@
 
 - **Postgraduate**: Master’s Degree in Science - Astronomy, National University of Colombia, Bogotá D.C., Colombia (2022-2024) - **GPA**: 4.7/5.0, **Honors**: Meritorious thesis.
 - **Undergraduate**: Bachelor’s Degree in Physics, National University of Colombia, Bogotá D.C., Colombia (2016-2021) - **GPA**: 4.2/5.0.
+- **Couerse**: Deep Learning Computer Vision,NMA Neuromatch Academy 
 - **Course**: The Structured Query Language (SQL), University of Colorado Boulder, Online,  (2023-2023) - **GPA**: 92/100.
 - **Course**: Advance Excel Specialization, University of Colorado Boulder, Online,  (2023-2023) - **GPA**: 98/100.
 

@@ -45,6 +45,16 @@
 
 
 
+## Education
+
+- **Postgraduate**: Master’s Degree in Science - Astronomy, National University of Colombia, Bogotá D.C., Colombia (2022-2024) - **GPA**: 4.7/5.0, **Honors**: Meritorious thesis.
+- **Undergraduate**: Bachelor’s Degree in Physics, National University of Colombia, Bogotá D.C., Colombia (2016-2021) - **GPA**: 4.2/5.0.
+- **Course**: Deep Learning Computer Vision, NMA Neuromatch Academy 
+- **Course**: The Structured Query Language (SQL), University of Colorado Boulder, Online,  (2023-2023) - **GPA**: 92/100.
+- **Course**: Advance Excel Specialization, University of Colorado Boulder, Online,  (2024-2024) - **GPA**: 98/100.
+- **Course**: Complete Git Specialization, LearnKartS, Online,  (2024-2024) - **GPA**: 95/100.
+
+
 
 
 

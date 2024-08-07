@@ -58,8 +58,6 @@
 ### Visiting Scholar
 - **KU Leuven Faculty of Science**, Leuven, Belgium (2024): I focused on integrating data analysis of observations from various AIA filters to understand better cold events observed with ALMA band 3. Also, I utilized Convolutional Neural Networks (CNN) to analyze solar observations and detect and study cold events in the sun. This experience not only enhanced my data analysis skills but also significantly improved my teamwork abilities.
 
-- As a visiting scholar, I shared results from my thesis at the DynaSun Project's inauguration, focusing on integrating observations from various AIA filters to better understand cold events observed with ALMA band 3.
-
 ### Research Stay
 - **Rosseland Center for Solar Physics (RoCS)**, Oslo, Norway (2023):  I developed a Python method for aligning images using the Pearson coefficient available here,  on my GitHub. I also gained expertise in clustering methods like K-Means and DBSCAN. I performed advanced time series analysis using FFT and Wavelet Transform to study variable correlations, enhancing my data analysis and algorithm development skills.
 

@@ -48,18 +48,20 @@
 
 ## Professional Experience
 
-- **Junior Data Scientist**, Lilianurse, Bogotá D.C., Colombia (2023): Developed and implemented a decision tree model to analyze and predict sales trends. Provided data-driven insights to optimize sales strategies and improve decision-making processes.
-- **Teaching Assistant Fellow**, National University of Colombia, Bogotá D.C., Colombia (2022-2023): Taught data analysis techniques and descriptive statistics, focusing on their application in astronomical data analysis.
+- **Junior Data Scientist**, Lilianurse, Bogotá D.C., Colombia (2023): I contributed to developing and implementing a decision tree model to predict sales trends and target loyal customers. I provided technical support in data interpretation and advanced data analysis to optimize sales strategies. Additionally, I managed project versions and collaborated using Git for efficient and accurate project management.
+- **Teaching Assistant Fellow**, National University of Colombia, Bogotá D.C., Colombia (2022-2023): I tutored master’s students in Astrophysics, focusing on helping them solve programming challenges and implementing machine-learning techniques to analyze astronomical data.  In this role, I sharpened my soft skills, worked effectively in a team, and conveyed complex ideas in a simple and accessible manner.
 
 
 
 ## Participation in Projects
 
 ### Visiting Scholar
-- **KU Leuven Faculty of Science**, Leuven, Belgium (2024): As a visiting scholar, I shared results from my thesis at the DynaSun Project's inauguration, focusing on integrating observations from various AIA filters to better understand cold events observed with ALMA band 3.
+- **KU Leuven Faculty of Science**, Leuven, Belgium (2024): I focused on integrating data analysis of observations from various AIA filters to understand better cold events observed with ALMA band 3. Also, I utilized Convolutional Neural Networks (CNN) to analyze solar observations and detect and study cold events in the sun. This experience not only enhanced my data analysis skills but also significantly improved my teamwork abilities.
+
+- As a visiting scholar, I shared results from my thesis at the DynaSun Project's inauguration, focusing on integrating observations from various AIA filters to better understand cold events observed with ALMA band 3.
 
 ### Research Stay
-- **Rosseland Center for Solar Physics (RoCS)**, Oslo, Norway (2023): Improved methods for aligning IRIS, ALMA, and SDO images, enhancing the data quality used in my thesis. Collaborated with colleagues to gain expertise in analyzing and interpreting data from SDO, ALMA, and IRIS, correlating these observations at cold event locations to enhance the outcomes of my master's thesis.
+- **Rosseland Center for Solar Physics (RoCS)**, Oslo, Norway (2023):  I developed a Python method for aligning images using the Pearson coefficient available here,  on my GitHub. I also gained expertise in clustering methods like K-Means and DBSCAN. I performed advanced time series analysis using FFT and Wavelet Transform to study variable correlations, enhancing my data analysis and algorithm development skills.
 
 
 ## Publications

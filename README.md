@@ -32,9 +32,8 @@
 - **Soft Skills**: Leadership, Teamwork, Organization, Efficiency, Dedicated, Inclusive, Collaboration.
 
 
-
 ## Education
-
+-**IBM Data Science Professional Certificate,** Completed a comprehensive program covering Data Science methodologies, Python, SQL, Data Visualization, Machine Learning, and Cloud-based capstone projects.
 - **Postgraduate**: Master’s Degree in Science - Astronomy, National University of Colombia, Bogotá D.C., Colombia (2022-2024) - **GPA**: 4.7/5.0, **Honors**: Meritorious thesis.
 - **Undergraduate**: Bachelor’s Degree in Physics, National University of Colombia, Bogotá D.C., Colombia (2016-2021) - **GPA**: 4.2/5.0.
 - **Courses**:

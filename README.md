@@ -85,11 +85,11 @@ https://doi.org/10.19053/01217488.v1.n2E.2022.15245.
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierordoneza&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=0078D7&text_color=000000&icon_color=FF4500" alt="javierordoneza" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierordoneza&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=0000FF&text_color=000000&icon_color=32CD32" alt="javierordoneza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javierordoneza&show_icons=true&locale=en&bg_color=ffffff&title_color=0078D7&text_color=000000&icon_color=FF4500" alt="javierordoneza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javierordoneza&show_icons=true&locale=en&bg_color=ffffff&title_color=0000FF&text_color=000000&icon_color=32CD32" alt="javierordoneza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierordoneza&background=ffffff&stroke=000000&ring=FF4500&fire=FF4500&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="javierordoneza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierordoneza&background=ffffff&stroke=000000&ring=0000FF&fire=32CD32&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="javierordoneza" /></p>
 
 
 

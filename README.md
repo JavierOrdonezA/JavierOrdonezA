@@ -102,3 +102,10 @@ https://doi.org/10.19053/01217488.v1.n2E.2022.15245.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierordoneza&background=ffffff&stroke=000000&ring=0000FF&fire=FF0000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="javierordoneza" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javierordoneza&show_icons=true&locale=en&layout=compact&bg_color=ffffff&title_color=0000FF&text_color=000000&icon_color=008000&langs_count=6&hide=jupyter%20notebook&custom_title=Most%20Used%20Languages&hide_title=false&theme=default&html_color=800080" alt="javierordoneza" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javierordoneza&show_icons=true&locale=en&bg_color=ffffff&title_color=0000FF&text_color=000000&icon_color=008000" alt="javierordoneza" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierordoneza&background=ffffff&stroke=000000&ring=0000FF&fire=FF0000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels
+
+

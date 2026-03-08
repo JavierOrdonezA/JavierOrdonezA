@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm F. Javier Ordoñez A.</h1>
+<h1 align="center">Hi 👋, I'm  Javier Ordoñez A.</h1>
 
 <h3 align="center">
 From solar physics ☀️ to cancer evolution 🧬
@@ -32,6 +32,103 @@ selection processes in cancer using large-scale genomic data.
 - 📫 Reach me at **fordonezaraujo@gmail.com**
 
 
+## Current Research Focus
+
+My PhD research focuses on **selection in cancer genomes**, studying how mutational
+processes and immune-related pressures shape the emergence and persistence of
+mutations in tumors. I combine **computational genomics, statistical modeling,
+and machine learning** to analyze large-scale genomic datasets.
+
+Research directions include:
+
+- Studying **mutation patterns and selection signals in cancer genomes**
+- Investigating **immunogenic mutations and neoantigens** to understand immune-driven selection
+- Identifying **factors generating mutational patterns** using statistical modeling
+- Applying **neural networks to detect mutational signatures and selection signals**
+- Developing **machine learning approaches for large-scale genomic data analysis**
+- Using **signal processing methods** (FFT, Wavelets) to analyze complex scientific data
+
+---
+
+## Skills
+
+### Programming & Tools
+- **Languages:** Python, SQL, C++, LaTeX, Octave/MATLAB
+- **Tools:** Git, Linux, Jupyter Notebook, VS Code, Excel, Microsoft Office, VBA
+
+### Data Science & Analytics
+- Pandas, NumPy, SciPy, Seaborn
+- Tableau, Power BI
+- Statistical analysis, hypothesis testing, A/B testing
+- Time series analysis, signal analysis, FFT, Wavelets
+
+### Machine Learning & AI
+- Scikit-learn, PyTorch, TensorFlow
+- OpenCV, scikit-image
+- Regression, Classification, Clustering
+- Dimensionality Reduction
+- Deep Learning with CNNs
+
+### Cloud & Platforms
+- Azure Databricks
+- Google Colab
+
+### Soft Skills
+- Leadership
+- Teamwork
+- Organization
+- Collaboration
+- Clear scientific communication
+
+---
+
+## Education
+
+- **PhD Candidate in Biomedicine**  
+  **Centre for Genomic Regulation (CRG)**, Barcelona, Spain  
+  **2025 – Present**
+
+- **Master’s Degree in Astronomy**  
+  **National University of Colombia**, Bogotá D.C., Colombia  
+  **2022 – 2024**  
+  GPA: **4.7/5.0**  
+  Honors: **Meritorious Thesis**
+
+- **Bachelor’s Degree in Physics**  
+  **National University of Colombia**, Bogotá D.C., Colombia  
+  **2016 – 2021**  
+  GPA: **4.2/5.0**
+
+- **IBM Data Science Professional Certificate**  
+  Comprehensive training in Data Science methodology, Python, SQL, Data Visualization, Machine Learning, and cloud-based capstone projects
+
+### Additional Courses
+- Deep Learning Computer Vision — **Neuromatch Academy**
+- The Structured Query Language (SQL) — **University of Colorado Boulder** (2023) — GPA: **92/100**
+- Advanced Excel Specialization — **University of Colorado Boulder** (2024) — GPA: **98/100**
+- Complete Git Specialization — **LearnKartS** (2024) — GPA: **95/100**
+
+---
+
+## Professional Experience
+
+### Junior Data Scientist
+**Lilianurse**, Bogotá D.C., Colombia  
+**2023**
+
+- Contributed to the development of a decision tree model to predict sales trends
+- Helped identify loyal customers and improve business targeting strategies
+- Supported advanced data analysis and interpretation for decision-making
+
+### Teaching Assistant Fellow
+**National University of Colombia**, Bogotá D.C., Colombia  
+**2022 – 2023**
+
+- Supported master’s students in Astrophysics with programming and data analysis
+- Helped students apply machine learning techniques to astronomical data
+- Strengthened communication, teamwork, and mentoring skills
+
+
 ---
 ---
 
@@ -42,9 +139,9 @@ selection processes in cancer using large-scale genomic data.
 - Computational cancer genomics: studying **mutation patterns and selection in cancer genomes**
 - Investigating **immunogenic mutations and neoantigens** to understand immune-related selection
 - Identifying **factors that generate mutational patterns** using statistical and machine learning approaches
-- Solar data analysis using **ALMA, AIA, IRIS**, and multi-instrument observations
 - Machine learning for **event detection, image analysis, and pattern discovery**
 - Time series analysis with **FFT, Wavelets, and statistical modeling**
+- Solar data analysis using **ALMA, AIA, IRIS**, and multi-instrument observations
 
 
 

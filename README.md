@@ -52,33 +52,14 @@ Research directions include:
 
 ## Skills
 
-### Programming & Tools
-- **Languages:** Python, SQL, C++, LaTeX, Octave/MATLAB
-- **Tools:** Git, Linux, Jupyter Notebook, VS Code, Excel, Microsoft Office, VBA
+- **Programming Languages and OS**: Python, SQL, C++, LaTeX, Octave/MATLAB, Linux, Git
+- **Data Analysis**: Pandas, Numpy, Excel, Seaborn, Scipy, Tableau, PowerBI
+- **Machine Learning**: Scikit-Learn, PyTorch, TensorFlow, OpenCV, Scikit-image
+- **Cloud Computing**: Cloud Computing, Azure(Databricks), Colab
+- **Other**: Jupyter NoteBook, VS Code, LATEX, MS Excel, Microsoft Office, VBA
+- **Technical**: Regression/Classification (GLM, Logistic, KNN, CART), Clustering (K-Means, DBSCAN, Decision Tree Model), Dimensionality Reduction (PCA, LDA), Deep Learning (CNN), Analytical Statistics (hypothesis testing, A/B testing)
+- **Soft Skills**: Leadership, Teamwork, Organization, Efficiency, Dedicated, Inclusive, Collaboration.
 
-### Data Science & Analytics
-- Pandas, NumPy, SciPy, Seaborn
-- Tableau, Power BI
-- Statistical analysis, hypothesis testing, A/B testing
-- Time series analysis, signal analysis, FFT, Wavelets
-
-### Machine Learning & AI
-- Scikit-learn, PyTorch, TensorFlow
-- OpenCV, scikit-image
-- Regression, Classification, Clustering
-- Dimensionality Reduction
-- Deep Learning with CNNs
-
-### Cloud & Platforms
-- Azure Databricks
-- Google Colab
-
-### Soft Skills
-- Leadership
-- Teamwork
-- Organization
-- Collaboration
-- Clear scientific communication
 
 ---
 

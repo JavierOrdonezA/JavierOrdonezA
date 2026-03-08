@@ -48,7 +48,6 @@ Research directions include:
 - Developing **machine learning approaches for large-scale genomic data analysis**
 - Using **signal processing methods** (FFT, Wavelets) to analyze complex scientific data
 
----
 
 ## Skills
 
@@ -61,7 +60,7 @@ Research directions include:
 - **Soft Skills**: Leadership, Teamwork, Organization, Efficiency, Dedicated, Inclusive, Collaboration.
 
 
----
+
 
 ## Education
 

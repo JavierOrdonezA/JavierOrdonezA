@@ -109,7 +109,43 @@ Research directions include:
 - Helped students apply machine learning techniques to astronomical data
 - Strengthened communication, teamwork, and mentoring skills
 
+## Participation in Projects
 
+### Visiting Scholar
+- **KU Leuven Faculty of Science**, Leuven, Belgium (2024): I focused on integrating data analysis of observations from various AIA filters to understand better cold events observed with ALMA band 3. Also, I utilized Convolutional Neural Networks (CNN) to analyze solar observations and detect and study cold events in the sun. 
+
+### Research Stay
+- **Rosseland Center for Solar Physics (RoCS)**, Oslo, Norway (2023):  I developed a Python method for aligning images using the Pearson coefficient available here,  on my GitHub. I also gained expertise in clustering methods like K-Means and DBSCAN. I performed advanced time series analysis using FFT and Wavelet Transform to study variable correlations, enhancing my data analysis, control version (Git), and algorithm development skills.
+
+
+## Publications
+
+- "Data and Image Analysis: Comparative Image Alignment for Multiple Telescopes: ALMA, IRIS, SDO", eSPECTRA, Vol. 2, 2024, doi:
+https://arxiv.org/abs/2404.04401.
+
+- "Data Analysis and Dynamics Study: the cold solar chromosphere dynamics observed with ALMA", UNAL Master Thesis repository, doi:
+https://repositorio.unal.edu.co/handle/unal/85838.
+
+- "Data Analysis: Study of Correlations between Variables in Sunspots", Ciencia en Desarrollo, Vol 1, 2022, doi:
+https://doi.org/10.19053/01217488.v1.n2E.2022.15245.
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/javiierordonez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/javiierordonez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/francisco-javier-ordonez-araujo-720b941b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-javier-ordonez-araujo-720b941b8/" height="30" width="40" /></a>
+
+
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javierordoneza&background=ffffff&stroke=000000&ring=0000FF&fire=FF0000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="javierordoneza" /></p>
+
+
+
+
+---
 ---
 ---
 

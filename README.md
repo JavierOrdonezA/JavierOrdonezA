@@ -5,6 +5,28 @@ From solar physics ☀️ to cancer evolution 🧬
 </h3>
 
 
+<p align="center">
+  <a href="https://github.com/JavierOrdonezA">
+    <img src="https://komarev.com/ghpvc/?username=javierordoneza&label=Profile%20views&color=0e75b6&style=flat" alt="javierordoneza" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+- 🔬 PhD Candidate in **Biomedicine** at **Centre for Genomic Regulation (CRG), Barcelona**
+- 🧬 Currently studying **cancer selection**, **mutational patterns**, and **immunogenic mutation selection**
+- 📊 Interested in understanding which **biological and evolutionary factors drive mutations**
+- ☀️ Background in **Solar Physics**, applying data science and machine learning to solar observations
+- 🤝 Open to collaborating on **Data Science, Computational Biology, Cancer Genomics, and Solar Physics** projects
+- 💬 Ask me about **data analysis, time series, machine learning, solar physics, cancer genomics, and mutation pattern analysis**
+- 📫 Reach me at **fordonezaraujo@gmail.com**
+
+
+---
+---
+
 <p align="left">
 I work at the intersection of <b>science</b>, <b>data analysis</b>, and <b>machine learning</b>, 
 developing methods to analyze complex scientific data. My research spans <b>solar physics</b> 

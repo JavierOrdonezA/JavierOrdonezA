@@ -12,12 +12,11 @@ From solar physics ☀️ to cancer evolution 🧬
 </p>
 
 <p align="left">
-I work at the intersection of <b>science</b>, <b>data analysis</b>, and <b>machine learning</b>, 
+I am a physicist working at the intersection of <b>science</b>, <b>data analysis</b>, and <b>machine learning</b>, 
 developing methods to analyze complex scientific data. My research spans <b>solar physics</b> 
 and <b>computational cancer genomics</b>, where I study mutation patterns and immune-related 
 selection processes in cancer using large-scale genomic data.
 </p>
-
 
 
 

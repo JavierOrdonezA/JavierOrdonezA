@@ -5,11 +5,19 @@ From solar physics ☀️ to cancer evolution 🧬
 </h3>
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/JavierOrdonezA">
     <img src="https://komarev.com/ghpvc/?username=javierordoneza&label=Profile%20views&color=0e75b6&style=flat" alt="javierordoneza" />
   </a>
 </p>
+
+<p align="left">
+I work at the intersection of <b>science</b>, <b>data analysis</b>, and <b>machine learning</b>, 
+developing methods to analyze complex scientific data. My research spans <b>solar physics</b> 
+and <b>computational cancer genomics</b>, where I study mutation patterns and immune-related 
+selection processes in cancer using large-scale genomic data.
+</p>
+
 
 ---
 
@@ -27,12 +35,6 @@ From solar physics ☀️ to cancer evolution 🧬
 ---
 ---
 
-<p align="left">
-I work at the intersection of <b>science</b>, <b>data analysis</b>, and <b>machine learning</b>, 
-developing methods to analyze complex scientific data. My research spans <b>solar physics</b> 
-and <b>computational cancer genomics</b>, where I study mutation patterns and immune-related 
-selection processes in cancer using large-scale genomic data.
-</p>
 
 
 ## 🧠 Current Focus

@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm F. Javier Ordoñez A.</h1>
+
+<h3 align="center">
+From solar physics ☀️ to cancer evolution 🧬
+</h3>
+
+
+<p align="center">
+I work at the intersection of <b>science</b>, <b>data analysis</b>, and <b>machine learning</b>, 
+developing methods to analyze complex scientific data. My research spans <b>solar physics</b> 
+and <b>computational cancer genomics</b>, where I study mutation patterns and immune-related 
+selection processes in cancer using large-scale genomic data.
+</p>
+
+
 ---
 <h1 align="center">Hi 👋, I'm F. Javier Ordoñez A</h1>
 <h3 align="center">I am a Solar Physicist expert at applying Data Science techniques to study the sun, with experience using these methods in the industry to address real-world challenges.</h3>

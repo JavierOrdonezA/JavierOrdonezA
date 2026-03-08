@@ -87,7 +87,7 @@ Research directions include:
 - Advanced Excel Specialization — **University of Colorado Boulder** (2024) — GPA: **98/100**
 - Complete Git Specialization — **LearnKartS** (2024) — GPA: **95/100**
 
----
+
 
 ## Professional Experience
 

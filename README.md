@@ -3,7 +3,10 @@
 
 <img src="assets/profile-banner-solar-genomics.jpg" alt="Abstract transition from solar physics to computational genomics" width="80%">
 
-#Javier Ordoñez A
+# Javier Ordoñez A.
+
+### Physicist · Computational Scientist · Cancer Genomics Researcher
+
 
 `PHYSICS` · `COMPUTATIONAL GENOMICS` · `MACHINE LEARNING`
 

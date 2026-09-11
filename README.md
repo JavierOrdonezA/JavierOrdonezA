@@ -135,32 +135,6 @@ Numerical methods and computational experiments for modelling complex physical s
 
 
 
-### 🇧🇪 Visiting Scholar
-
-**KU Leuven Faculty of Science**  
-Leuven, Belgium · **2024**
-
-Integrated observations from multiple AIA filters to study cold events detected in ALMA Band 3, and applied convolutional neural networks to solar-event detection and analysis.
-
-`CNN` `Solar imaging` `Multi-instrument data`
-
-</td>
-<td width="50%" valign="top">
-
-### 🇳🇴 Research Stay
-
-**Rosseland Centre for Solar Physics**  
-Oslo, Norway · **2023**
-
-Developed a Python image-alignment method based on Pearson correlation and applied clustering, FFT, and wavelet analysis to multi-variable solar observations.
-
-`Python` `K-Means` `DBSCAN` `FFT` `Wavelets`
-
-</td>
-</tr>
-</table>
-
-
 
 
 

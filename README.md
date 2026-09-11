@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/profile-banner-solar-genomics.jpg" alt="Abstract transition from solar physics to computational genomics" width="90%">
+<img src="assets/profile-banner-solar-genomics.jpg" alt="Abstract transition from solar physics to computational genomics" width="80%">
 
 
 <h1 align="center">Hi 👋, I'm  Javier Ordoñez A.</h1>
@@ -69,19 +69,6 @@ Research directions include:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
-
-
-## Skills
-
-- **Programming Languages and OS**: Python, SQL, C++, LaTeX, Octave/MATLAB, Linux, Git
-- **Data Analysis**: Pandas, Numpy, Excel, Seaborn, Scipy, Tableau, PowerBI
-- **Machine Learning**: Scikit-Learn, PyTorch, TensorFlow, OpenCV, Scikit-image
-- **Cloud Computing**: Cloud Computing, Azure(Databricks), Colab
-- **Other**: Jupyter NoteBook, VS Code, LATEX, MS Excel, Microsoft Office, VBA
-- **Technical**: Regression/Classification (GLM, Logistic, KNN, CART), Clustering (K-Means, DBSCAN, Decision Tree Model), Dimensionality Reduction (PCA, LDA), Deep Learning (CNN), Analytical Statistics (hypothesis testing, A/B testing)
-- **Soft Skills**: Leadership, Teamwork, Organization, Efficiency, Dedicated, Inclusive, Collaboration.
-
-
 
 
 ## Education

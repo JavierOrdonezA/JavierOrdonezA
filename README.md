@@ -3,7 +3,7 @@
 
 <img src="assets/profile-banner-solar-genomics.jpg" alt="Abstract transition from solar physics to computational genomics" width="80%">
 
-Javier Ordoñez A
+#Javier Ordoñez A
 
 `PHYSICS` · `COMPUTATIONAL GENOMICS` · `MACHINE LEARNING`
 
@@ -37,6 +37,13 @@ Trained as a physicist and astronomer, I previously studied the solar atmosphere
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
+
+Domain | Methods and tools |
+|---|---|
+| **Computational genomics** | Large-scale cohort analysis, mutational patterns, reproducible workflows, HPC |
+| **Statistics & ML** | Regression, classification, clustering, dimensionality reduction, neural networks |
+| **Images & signals** | OpenCV, scikit-image, FFT, wavelets, image registration, time-series analysis |
+| **Data & visualisation** | SQL, Jupyter, Matplotlib, Seaborn, Tableau, Power BI, Azure Databricks |
 
 
 

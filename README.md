@@ -1,3 +1,9 @@
+<img
+  src="assets/profile-banner-solar-genomics.jpg"
+  alt="Abstract transition from solar physics to computational genomics"
+  width="100%"
+>
+
 <h1 align="center">Hi 👋, I'm  Javier Ordoñez A.</h1>
 
 <h3 align="center">

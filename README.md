@@ -3,15 +3,59 @@
 
 <img src="assets/profile-banner-solar-genomics.jpg" alt="Abstract transition from solar physics to computational genomics" width="80%">
 
+Javier Ordoñez A
 
 `PHYSICS` · `COMPUTATIONAL GENOMICS` · `MACHINE LEARNING`
 
-**PhD researcher decoding selection and mutational patterns in cancer genomes.**
+***I follow patterns across scales—from the dynamics of the Sun to the evolution of cancer genomes***
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7329--4877-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7329-4877)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-javier-ordonez-araujo/)
 [![Email](https://img.shields.io/badge/Email-Contact-6C63FF?style=flat-square&logo=minutemailer&logoColor=white)](mailto:fordonezaraujo@gmail.com)
 </div>
+
+Profile
+
+I am a **PhD researcher in Biomedicine at the Centre for Genomic Regulation (CRG)**. My work combines computational genomics, statistical modelling, and machine learning to investigate how mutational processes and immune selection shape cancer evolution.
+
+Trained as a physicist and astronomer, I previously studied the solar atmosphere through multi-telescope image alignment, event detection, and time-series analysis. That journey shaped the way I approach biology today: with curiosity, quantitative rigour, and a strong instinct for finding structure in complex data.
+
+
+
+
+## Technical toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+
+
+
+## Selected publications
+
+- **[Comparative Image Alignment for Multiple Telescopes: ALMA, IRIS, SDO](https://doi.org/10.48550/arXiv.2404.04401)** · *eSPECTRA*, 2 (2024) · [Code](https://github.com/JavierOrdonezA/MultiTelescopeAligner-IRIS-ALMA-and-SDO-images)
+- **[The cold solar chromosphere dynamics observed with ALMA](https://repositorio.unal.edu.co/handle/unal/85838)** · MSc thesis, National University of Colombia (2024)
+- **[Study of Correlations between Variables in Sunspots](https://doi.org/10.19053/01217488.v1.n2E.2022.15245)** · *Ciencia en Desarrollo* (2022)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -65,21 +109,6 @@ Research directions include:
 - Developing **machine learning approaches for large-scale genomic data analysis**
 - Using **signal processing methods** (FFT, Wavelets) to analyze complex scientific data
 
-
-## Technical toolkit
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
 
 
 ## Education

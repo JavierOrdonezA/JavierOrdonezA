@@ -57,6 +57,59 @@ Domain | Methods and tools |
 
 
 
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 [Multi-Telescope Image Aligner](https://github.com/JavierOrdonezA/MultiTelescopeAligner-IRIS-ALMA-and-SDO-images)
+
+Co-aligns solar observations from ALMA, IRIS, and SDO using correlation-based image registration. Companion code for a 2024 publication.
+
+`Python` `Image registration` `Astronomy`
+
+</td>
+<td width="50%" valign="top">
+
+### ☀️ [ALMA Cold Region Tracker](https://github.com/JavierOrdonezA/ALMA-Cold-Region-Tracker-Dynamic-Event-Detection-and-Analysis)
+
+Detects and analyses dynamic cold regions in solar observations through scientific image and time-series methods.
+
+`Python` `Computer vision` `Time series`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Cancer Genomics Research
+
+Computational analysis of mutational patterns, immunogenic mutations, and selection across large cancer-genome cohorts.
+
+`Genomics` `Statistics` `Machine learning`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Physics Simulations](https://github.com/JavierOrdonezA/Physics-Simulations-with-MATLAB)
+
+Numerical methods and computational experiments for modelling complex physical systems.
+
+`MATLAB` `Numerical methods` `Physics`
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 
 

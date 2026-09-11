@@ -5,9 +5,6 @@
 
 # Javier Ordoñez A.
 
-### Physicist · Computational Scientist · Cancer Genomics Researcher
-
-
 `PHYSICS` · `COMPUTATIONAL GENOMICS` · `MACHINE LEARNING`
 
 ***I follow patterns across scales—from the dynamics of the Sun to the evolution of cancer genomes***

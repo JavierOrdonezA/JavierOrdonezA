@@ -42,8 +42,13 @@ Trained as a physicist and astronomer, I previously studied the solar atmosphere
 
 
 
+## Professional experience
 
-
+| Period | Role & organisation | Focus |
+|:---:|---|---|
+| **2025–present** | 🧬 **PhD Researcher**<br>CRG / Universitat Pompeu Fabra | Cancer-genome analysis, mutational selection, neoantigens, and reproducible computational workflows. |
+| **2023** | 📊 **Junior Data Scientist**<br>Lilianurse | Sales prediction with decision trees and customer-data analysis for business decisions. |
+| **2022–2023** | 🎓 **Teaching Assistant Fellow**<br>National University of Colombia | Programming, data analysis, and machine-learning support for master's students in astrophysics. |
 
 
 ## Technical toolkit
@@ -69,15 +74,11 @@ Domain | Methods and tools |
 | **Data & visualisation** | SQL, Jupyter, Matplotlib, Seaborn, Tableau, Power BI, Azure Databricks |
 
 
-
-
 ## Selected publications
 
 - **[Comparative Image Alignment for Multiple Telescopes: ALMA, IRIS, SDO](https://doi.org/10.48550/arXiv.2404.04401)** · *eSPECTRA*, 2 (2024) · [Code](https://github.com/JavierOrdonezA/MultiTelescopeAligner-IRIS-ALMA-and-SDO-images)
 - **[The cold solar chromosphere dynamics observed with ALMA](https://repositorio.unal.edu.co/handle/unal/85838)** · MSc thesis, National University of Colombia (2024)
 - **[Study of Correlations between Variables in Sunspots](https://doi.org/10.19053/01217488.v1.n2E.2022.15245)** · *Ciencia en Desarrollo* (2022)
-
-
 
 
 ## Selected work
@@ -143,14 +144,6 @@ Numerical methods and computational experiments for modelling complex physical s
 
 
 
-
-## Professional experience
-
-| Period | Role & organisation | Focus |
-|:---:|---|---|
-| **2025–present** | 🧬 **PhD Researcher**<br>CRG / Universitat Pompeu Fabra | Cancer-genome analysis, mutational selection, neoantigens, and reproducible computational workflows. |
-| **2023** | 📊 **Junior Data Scientist**<br>Lilianurse | Sales prediction with decision trees and customer-data analysis for business decisions. |
-| **2022–2023** | 🎓 **Teaching Assistant Fellow**<br>National University of Colombia | Programming, data analysis, and machine-learning support for master's students in astrophysics. |
 
 ## Research appointments
 

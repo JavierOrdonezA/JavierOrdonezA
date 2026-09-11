@@ -104,18 +104,24 @@ Numerical methods and computational experiments for modelling complex physical s
 
 
 
+## Education & credentials
 
-## Journey
-
-| Period | Chapter |
+| Period | Qualification |
 |:---:|---|
-| **2025–present** | PhD candidate in Biomedicine · CRG / Universitat Pompeu Fabra, Barcelona |
-| **2024** | Visiting scholar · KU Leuven Faculty of Science, Belgium |
-| **2022–2024** | MSc in Astronomy · National University of Colombia · Meritorious thesis |
-| **2023** | Research stay · Rosseland Centre for Solar Physics, Norway |
-| **2016–2021** | BSc in Physics · National University of Colombia |
+| **2025–present** | **PhD candidate in Biomedicine** · Centre for Genomic Regulation / Universitat Pompeu Fabra |
+| **2022–2024** | **MSc in Astronomy** · National University of Colombia · GPA 4.7/5.0 · Meritorious thesis |
+| **2016–2021** | **BSc in Physics** · National University of Colombia · GPA 4.2/5.0 |
+| **Professional certificate** | **IBM Data Science Professional Certificate** · Python, SQL, data visualisation, machine learning, and applied capstone work |
 
+<details>
+<summary><strong>Selected additional training</strong></summary>
 
+- Deep Learning and Computer Vision · Neuromatch Academy
+- SQL · University of Colorado Boulder (2023)
+- Advanced Excel Specialization · University of Colorado Boulder (2024)
+- Complete Git Specialization · LearnKartS (2024)
+
+</details>
 
 
 

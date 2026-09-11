@@ -4,6 +4,17 @@
 <img src="assets/profile-banner-solar-genomics.jpg" alt="Abstract transition from solar physics to computational genomics" width="80%">
 
 
+`PHYSICS` · `COMPUTATIONAL GENOMICS` · `MACHINE LEARNING`
+
+**PhD researcher decoding selection and mutational patterns in cancer genomes.**
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7329--4877-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7329-4877)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-javier-ordonez-araujo/)
+[![Email](https://img.shields.io/badge/Email-Contact-6C63FF?style=flat-square&logo=minutemailer&logoColor=white)](mailto:fordonezaraujo@gmail.com)
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm  Javier Ordoñez A.</h1>
 
 

@@ -21,6 +21,29 @@ I am a **PhD researcher in Biomedicine at the Centre for Genomic Regulation (CRG
 Trained as a physicist and astronomer, I previously studied the solar atmosphere through multi-telescope image alignment, event detection, and time-series analysis. That journey shaped the way I approach biology today: with curiosity, quantitative rigour, and a strong instinct for finding structure in complex data.
 
 
+## Education & credentials
+
+| Period | Qualification |
+|:---:|---|
+| **2025–present** | **PhD candidate in Biomedicine** · Centre for Genomic Regulation / Universitat Pompeu Fabra |
+| **2022–2024** | **MSc in Astronomy** · National University of Colombia · GPA 4.7/5.0 · Meritorious thesis |
+| **2016–2021** | **BSc in Physics** · National University of Colombia · GPA 4.2/5.0 |
+| **Professional certificate** | **IBM Data Science Professional Certificate** · Python, SQL, data visualisation, machine learning, and applied capstone work |
+
+<details>
+<summary><strong>Selected additional training</strong></summary>
+
+- Deep Learning and Computer Vision · Neuromatch Academy
+- SQL · University of Colorado Boulder (2023)
+- Advanced Excel Specialization · University of Colorado Boulder (2024)
+- Complete Git Specialization · LearnKartS (2024)
+
+</details>
+
+
+
+
+
 
 
 ## Technical toolkit
@@ -104,29 +127,87 @@ Numerical methods and computational experiments for modelling complex physical s
 
 
 
-## Education & credentials
-
-| Period | Qualification |
-|:---:|---|
-| **2025–present** | **PhD candidate in Biomedicine** · Centre for Genomic Regulation / Universitat Pompeu Fabra |
-| **2022–2024** | **MSc in Astronomy** · National University of Colombia · GPA 4.7/5.0 · Meritorious thesis |
-| **2016–2021** | **BSc in Physics** · National University of Colombia · GPA 4.2/5.0 |
-| **Professional certificate** | **IBM Data Science Professional Certificate** · Python, SQL, data visualisation, machine learning, and applied capstone work |
-
-<details>
-<summary><strong>Selected additional training</strong></summary>
-
-- Deep Learning and Computer Vision · Neuromatch Academy
-- SQL · University of Colorado Boulder (2023)
-- Advanced Excel Specialization · University of Colorado Boulder (2024)
-- Complete Git Specialization · LearnKartS (2024)
-
-</details>
 
 
 
 
 
+
+
+
+### 🇧🇪 Visiting Scholar
+
+**KU Leuven Faculty of Science**  
+Leuven, Belgium · **2024**
+
+Integrated observations from multiple AIA filters to study cold events detected in ALMA Band 3, and applied convolutional neural networks to solar-event detection and analysis.
+
+`CNN` `Solar imaging` `Multi-instrument data`
+
+</td>
+<td width="50%" valign="top">
+
+### 🇳🇴 Research Stay
+
+**Rosseland Centre for Solar Physics**  
+Oslo, Norway · **2023**
+
+Developed a Python image-alignment method based on Pearson correlation and applied clustering, FFT, and wavelet analysis to multi-variable solar observations.
+
+`Python` `K-Means` `DBSCAN` `FFT` `Wavelets`
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+## Professional experience
+
+| Period | Role & organisation | Focus |
+|:---:|---|---|
+| **2025–present** | 🧬 **PhD Researcher**<br>CRG / Universitat Pompeu Fabra | Cancer-genome analysis, mutational selection, neoantigens, and reproducible computational workflows. |
+| **2023** | 📊 **Junior Data Scientist**<br>Lilianurse | Sales prediction with decision trees and customer-data analysis for business decisions. |
+| **2022–2023** | 🎓 **Teaching Assistant Fellow**<br>National University of Colombia | Programming, data analysis, and machine-learning support for master's students in astrophysics. |
+
+## Research appointments
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇧🇪 Visiting Scholar
+
+**KU Leuven Faculty of Science**  
+Leuven, Belgium · **2024**
+
+Integrated observations from multiple AIA filters to study cold events detected in ALMA Band 3, and applied convolutional neural networks to solar-event detection and analysis.
+
+`CNN` `Solar imaging` `Multi-instrument data`
+
+</td>
+<td width="50%" valign="top">
+
+### 🇳🇴 Research Stay
+
+**Rosseland Centre for Solar Physics**  
+Oslo, Norway · **2023**
+
+Developed a Python image-alignment method based on Pearson correlation and applied clustering, FFT, and wavelet analysis to multi-variable solar observations.
+
+`Python` `K-Means` `DBSCAN` `FFT` `Wavelets`
+
+</td>
+</tr>
+</table>
 
 
 

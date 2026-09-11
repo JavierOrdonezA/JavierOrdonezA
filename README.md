@@ -105,6 +105,18 @@ Numerical methods and computational experiments for modelling complex physical s
 
 
 
+## Journey
+
+| Period | Chapter |
+|:---:|---|
+| **2025–present** | PhD candidate in Biomedicine · CRG / Universitat Pompeu Fabra, Barcelona |
+| **2024** | Visiting scholar · KU Leuven Faculty of Science, Belgium |
+| **2022–2024** | MSc in Astronomy · National University of Colombia · Meritorious thesis |
+| **2023** | Research stay · Rosseland Centre for Solar Physics, Norway |
+| **2016–2021** | BSc in Physics · National University of Colombia |
+
+
+
 
 
 

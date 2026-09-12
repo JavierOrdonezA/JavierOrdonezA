@@ -176,6 +176,10 @@ Developed a Python image-alignment method based on Pearson correlation and appli
 </tr>
 </table>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-black?style=for-the-badge&logo=github)
+
 
 <div align="center">
 

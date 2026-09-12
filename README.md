@@ -177,7 +177,13 @@ Developed a Python image-alignment method based on Pearson correlation and appli
 </table>
 
 
+<div align="center">
+
+### Let's explore complex data together
+
 Open to opportunities and collaborations in **computational biology, cancer genomics, data science, and quantitative research**.
 
 [Email](mailto:fordonezaraujo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/f-javier-ordonez-araujo/) · [ORCID](https://orcid.org/0000-0002-7329-4877) · [Repositories](https://github.com/JavierOrdonezA?tab=repositories)
+
+</div>
 
